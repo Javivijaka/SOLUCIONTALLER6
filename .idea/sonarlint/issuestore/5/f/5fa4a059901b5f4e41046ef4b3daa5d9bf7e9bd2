@@ -1,0 +1,15 @@
+
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(İ¤ÉÎ8àğ ÿ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(òæœÿÿÿÿÿ8ç€†ÿ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(éäÛ‡8ƒáşœÿ.
+U	java:S106\"9Replace this use of System.out or System.err by a logger.(Äª¨¥8ÎşÌ§ÿ.
+T	java:S106Y"9Replace this use of System.out or System.err by a logger.(ÌÜ`8…¸˜§ÿ.
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(ºî“«8«¯ñÿ.
+E	java:S108%")Either remove or fill this block of code.(ÃÁò’8ûÑÎÿ.
+g
+java:S2095G"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ïıéŸÿÿÿÿÿ8ÇÃÅ¥ÿ.
+j
+java:S2095R"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ãİışÿÿÿÿ8‘İĞ§ÿ.
+J	java:S108<")Either remove or fill this block of code.(×ııšşÿÿÿÿ8¹ÌµŸÿ.
+b
+java:S2095;"EUse try-with-resources or close this "Scanner" in a "finally" clause.(¦×úç8˜ñ­Ÿÿ.
